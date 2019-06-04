@@ -8,10 +8,8 @@ Sapphire Radeon RX 560 2GB GDDR5 - 100€
 Corsair VS450 - 39€
 DeepCool Tesseract Black - 49€
 =======================================
-<<<<<<< HEAD
-Totale 520€
-=======
-Totale 513€
->>>>>>> master
+Tastiera meccanica 87 tasti - switch brown - 39€
+=======================================
+Totale 574€
 
-Hard disk 3.5 1TB in regalo 
+Hard disk 3.5 1TB in regalo
